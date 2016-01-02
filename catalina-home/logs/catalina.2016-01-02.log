@@ -1,0 +1,30 @@
+一月 02, 2016 10:13:04 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_75\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Python27\;C:\Python27\Scripts;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.7.0_75\bin;E:\Program Files\apache-maven-3.1.1\bin;E:\Program Files\nexus-2.8.1-01-bundle\nexus-2.8.1-01\bin;E:\Program Files\apache-ant-1.9.6/bin;.
+一月 02, 2016 10:13:05 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+一月 02, 2016 10:13:05 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+一月 02, 2016 10:13:05 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 1667 ms
+一月 02, 2016 10:13:05 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+一月 02, 2016 10:13:05 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/@VERSION@
+一月 02, 2016 10:13:05 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\tomcat\catalina-home\webapps\docs
+一月 02, 2016 10:13:19 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [188] milliseconds.
+一月 02, 2016 10:13:19 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\tomcat\catalina-home\webapps\examples
+一月 02, 2016 10:13:24 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\tomcat\catalina-home\webapps\host-manager
+一月 02, 2016 10:13:24 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\tomcat\catalina-home\webapps\manager
+一月 02, 2016 10:13:25 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory F:\tomcat\catalina-home\webapps\ROOT
+一月 02, 2016 10:13:28 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+一月 02, 2016 10:13:28 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+一月 02, 2016 10:13:28 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 23149 ms
