@@ -17,6 +17,9 @@ $RECYCLE.BIN/
 #IDEA relative files ignore
 *.iml
 .idea
+
+#maven target file ignore
+target
 # Windows shortcuts
 *.lnk
 
